@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuw7Z33gc/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilfelix\\SistemaClinico\\SistemaClinico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilfelix\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
